@@ -42,10 +42,9 @@ video, iframe, video{
 }
 .header__titulo{
     font-size: 4rem;
-    position: relative;
+    width: calc(100% - 5rem);
 /* margin: 0 auto; */
-width: calc(100%);
-/* text-align: center; */
+
 
 }
 
