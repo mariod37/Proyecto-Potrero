@@ -30,6 +30,7 @@ body {
 .imagen {
   display: flex;
   justify-content: center;
+  max-width: 100%;
 }
 
 .header__parrafo {
@@ -40,7 +41,7 @@ body {
 }
 .header__imagen {
   max-height: 30rem;
-  width: 60rem;
+  max-width: 100%;
 }
 .rotating-text-wrapper {
   height: 30vh;
@@ -235,6 +236,7 @@ form {
   .imagen{
     margin: 0 auto;
     height: 20rem;
+     max-width: 100%;
     
   }
   video,
